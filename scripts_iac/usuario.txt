@@ -1,0 +1,9 @@
+carlos;/bin/bash;GRP_ADM
+maria;/bin/bash;GRP_ADM
+joao;/bin/bash;GRP_ADM
+debora;/bin/bash;GRP_VEN
+sebastiana;/bin/bash;GRP_VEN
+roberto;/bin/bash;GRP_VEN
+josefina;/bin/bash;GRP_SEC
+amanda;/bin/bash;GRP_SEC
+rogerio;/bin/bash;GRP_SEC

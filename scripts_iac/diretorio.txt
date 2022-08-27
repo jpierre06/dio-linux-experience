@@ -1,0 +1,4 @@
+/disk2/publico;nobody;nogroup;777
+/disk2/adm;root;GRP_ADM;770
+/disk2/ven;root;GRP_VEN;770
+/disk2/sec;root;GRP_SEC;770
